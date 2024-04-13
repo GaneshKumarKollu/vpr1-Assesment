@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #333;
+    color:green;
+    padding: 20px;
+    text-align: center;
+}
+#a{
+    text-align: center;
+    color: blue;
+}
+
+.member-block {
+    padding: 20px;
+}
+
+.member-block h2 {
+    text-align: center;
+}
+
+.member {
+    margin: 20px;
+    text-align: center;
+}
+
+.member img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+h2{
+    background-color: rgba(30, 255, 0, 0.393);
+    color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
